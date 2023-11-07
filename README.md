@@ -1,4 +1,16 @@
 # SSCAE_contrastive_physics
+
+### Software requirement
+
+| Package Requirement                        |
+|--------------------------------------------|
+| os                                         |                                      |
+| numpy                                      |                                   |
+| math                                       |
+| matplotlib                                 |                           |
+| Tensorflow (2.3.0 or higher)               |
+| Keras (2.4.0 or higher)                    |
+
 implementation of contrastive learning in computational physics problems (fluid dynamics and wildfire simulation))
 
 
